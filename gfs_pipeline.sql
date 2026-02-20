@@ -141,7 +141,7 @@ FROM VALIDATED.COMPANIES_CLEAN
 where validation_status = 'DUPLICATE_DETECTED';
 
 
---Exported Results to CSV:
+--Data Validation Result:
 SELECT * FROM VALIDATED.COMPANIES_CLEAN 
 WHERE validation_status != 'VERIFIED'
 ORDER BY validation_status;
