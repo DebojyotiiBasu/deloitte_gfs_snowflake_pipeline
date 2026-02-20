@@ -1,0 +1,51 @@
+COMPANY_ID,COMPANY_NAME,INDUSTRY,COUNTRY,REVENUE_MILLIONS,EMPLOYEES,WEBSITE,DATA_SOURCE,VALIDATION_STATUS,VALIDATED_AT
+40,Microsoft,Technology,USA,72475,72425,company40.com,Internal,DUPLICATE_DETECTED,32:53.4
+26,Tesla Motors,Retail,Germany,120498,20448,company26.com,OpenCorporates,DUPLICATE_DETECTED,32:53.4
+10,Amazon Web Services,Finance,UK,422566,22516,company10.com,OpenCorporates,DUPLICATE_DETECTED,32:53.4
+28,Google LLC,Healthcare,India,378432,78382,company28.com,Crunchbase,DUPLICATE_DETECTED,32:53.4
+35,AWS,Healthcare,India,453367,53317,company35.com,Internal,DUPLICATE_DETECTED,32:53.4
+32,Apple,Finance,UK,325841,25791,company32.com,D&B,DUPLICATE_DETECTED,32:53.4
+39,Microsoft,Technology,USA,266985,66935,company39.com,D&B,DUPLICATE_DETECTED,32:53.4
+2,Microsoft,Technology,USA,375335,75285,company2.com,Internal,DUPLICATE_DETECTED,32:53.4
+37,Tesla Motors,Retail,Germany,206058,6008,company37.com,OpenCorporates,DUPLICATE_DETECTED,32:53.4
+19,Amazon Web Services,Finance,UK,431676,31626,company19.com,Crunchbase,DUPLICATE_DETECTED,32:53.4
+20,Microsoft,Technology,USA,359075,59025,company20.com,Internal,DUPLICATE_DETECTED,32:53.4
+29,Amazon Web Services,Finance,UK,238626,38576,company29.com,OpenCorporates,DUPLICATE_DETECTED,32:53.4
+36,AWS,Healthcare,India,172227,72177,company36.com,Internal,DUPLICATE_DETECTED,32:53.4
+17,Apple,Finance,UK,284491,84441,company17.com,Internal,DUPLICATE_DETECTED,32:53.4
+47,Apple,Finance,UK,249721,49671,company47.com,D&B,DUPLICATE_DETECTED,32:53.4
+12,Apple Inc,Technology,USA,109370,9320,company12.com,OpenCorporates,DUPLICATE_DETECTED,32:53.4
+11,Tesla Motors,Retail,Germany,463168,63118,company11.com,Crunchbase,DUPLICATE_DETECTED,32:53.4
+18,Google LLC,Healthcare,India,179552,79502,company18.com,Crunchbase,DUPLICATE_DETECTED,32:53.4
+25,Microsoft Corp,Auto,Canada,435684,35634,company25.com,Crunchbase,DUPLICATE_DETECTED,32:53.4
+13,AWS,Healthcare,India,468337,68287,company13.com,D&B,DUPLICATE_DETECTED,32:53.4
+46,Apple,Finance,UK,318111,18061,company46.com,Internal,DUPLICATE_DETECTED,32:53.4
+34,Google LLC,Healthcare,India,340292,40242,company34.com,Crunchbase,DUPLICATE_DETECTED,32:53.4
+4,AWS,Healthcare,India,443077,43027,company4.com,D&B,DUPLICATE_DETECTED,32:53.4
+3,Microsoft Corp,Auto,Canada,205364,5314,company3.com,Crunchbase,DUPLICATE_DETECTED,32:53.4
+23,Microsoft Corp,Auto,Canada,103784,3734,company23.com,Crunchbase,DUPLICATE_DETECTED,32:53.4
+44,Apple,Finance,UK,438231,38181,company44.com,Internal,DUPLICATE_DETECTED,32:53.4
+15,Amazon Web Services,Finance,UK,232186,32136,company15.com,OpenCorporates,DUPLICATE_DETECTED,32:53.4
+43,Amazon Web Services,Finance,UK,157836,57786,company43.com,Crunchbase,DUPLICATE_DETECTED,32:53.4
+6,Google,Retail,Germany,451953,51903,company6.com,D&B,DUPLICATE_DETECTED,32:53.4
+49,Google,Retail,Germany,361443,61393,company49.com,Internal,DUPLICATE_DETECTED,32:53.4
+24,Microsoft,Technology,USA,236925,36875,company24.com,D&B,DUPLICATE_DETECTED,32:53.4
+48,AWS,Healthcare,India,364667,64617,company48.com,Internal,DUPLICATE_DETECTED,32:53.4
+22,Microsoft Corp,Auto,Canada,318134,18084,company22.com,OpenCorporates,DUPLICATE_DETECTED,32:53.4
+42,Microsoft Corp,Auto,Canada,452754,52704,company42.com,OpenCorporates,DUPLICATE_DETECTED,32:53.4
+8,Apple Inc,Technology,USA,144950,44900,company8.com,OpenCorporates,DUPLICATE_DETECTED,32:53.4
+31,Tesla Motors,Retail,Germany,200618,568,company31.com,OpenCorporates,OUTLIER_DETECTED,32:53.4
+50,Amazon Web Services,Finance,UK,8706,8656,company50.com,OpenCorporates,OUTLIER_DETECTED,32:53.4
+30,Amazon Web Services,Finance,UK,499606,99556,company30.com,OpenCorporates,OUTLIER_DETECTED,32:53.4
+38,Amazon Web Services,Finance,UK,197816,97766,company38.com,Crunchbase,OUTLIER_DETECTED,32:53.4
+9,Tesla Motors,Retail,Germany,487998,87948,company9.com,OpenCorporates,OUTLIER_DETECTED,32:53.4
+45,Google,Retail,Germany,35383,35333,company45.com,Internal,OUTLIER_DETECTED,32:53.4
+14,Microsoft Corp,Auto,Canada,400894,844,company14.com,OpenCorporates,OUTLIER_DETECTED,32:53.4
+21,AWS,Healthcare,India,35547,35497,company21.com,Internal,OUTLIER_DETECTED,32:53.4
+33,AWS,Healthcare,India,294507,94457,company33.com,Internal,OUTLIER_DETECTED,32:53.4
+27,Google,Retail,Germany,401913,1863,company27.com,D&B,OUTLIER_DETECTED,32:53.4
+41,Google,Retail,Germany,44963,44913,company41.com,Internal,OUTLIER_DETECTED,32:53.4
+5,Apple,Finance,UK,20291,20241,company5.com,Internal,OUTLIER_DETECTED,32:53.4
+16,Company 16,Auto,Canada,266479,66429,company16.com,Internal,VERIFIED,32:53.4
+7,Company 7,Auto,Canada,233269,33219,company7.com,D&B,VERIFIED,32:53.4
+1,Company 1,Auto,Canada,312099,12049,company1.com,Internal,VERIFIED,32:53.4
