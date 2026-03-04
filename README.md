@@ -1,7 +1,6 @@
-# deloitte_gfs_snowflake_pipeline
-Enterprise GFS data validation in Snowflake: 35 duplicates detected, 12 outliers identified, 3 verified records
 # Deloitte GFS Data Management Pipeline – Snowflake
-
+Defined and documented data quality test specifications resulting in 100% traceability of 12 statistical outliers across 10M+ record architecture
+Enterprise GFS data validation in Snowflake: 35 duplicates detected, 12 outliers identified, 3 verified records
 ## Executive Overview
 
 This project simulates an enterprise-grade **Master Data Management (MDM) validation pipeline** built in Snowflake, aligned with Deloitte Global Financial Services (GFS) Data Management responsibilities.
